@@ -24,5 +24,10 @@
     <string name="stock_hanya_5_buah">Stock hanya 5 buah</string>
     <string name="_735">$735</string>
     <string name="_6_photos">6 Photos</string>
+    <string name="seller" />
+    <string name="my_name" />
+    <string name="dummy_value" />
+    <string name="stock" />
+    <string name="specification" />
 
 </resources>
